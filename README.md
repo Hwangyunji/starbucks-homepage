@@ -1,2 +1,2 @@
 # starbucks-homepage
-https://user-images.githubusercontent.com/105402299/172776024-1d221ec6-ca3e-4497-96e7-27afbcb85693.JPG
+![4단 레이아웃 메인 홈페이지](https://user-images.githubusercontent.com/105402299/172776278-f0d24ea0-de3d-4946-8be7-343cce44ed0b.JPG)
